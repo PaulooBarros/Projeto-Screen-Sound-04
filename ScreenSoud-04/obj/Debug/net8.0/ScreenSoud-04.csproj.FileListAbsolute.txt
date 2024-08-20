@@ -1,0 +1,14 @@
+C:\Users\paulo\source\repos\ScreenSoud-04\ScreenSoud-04\bin\Debug\net8.0\ScreenSoud-04.exe
+C:\Users\paulo\source\repos\ScreenSoud-04\ScreenSoud-04\bin\Debug\net8.0\ScreenSoud-04.deps.json
+C:\Users\paulo\source\repos\ScreenSoud-04\ScreenSoud-04\bin\Debug\net8.0\ScreenSoud-04.runtimeconfig.json
+C:\Users\paulo\source\repos\ScreenSoud-04\ScreenSoud-04\bin\Debug\net8.0\ScreenSoud-04.dll
+C:\Users\paulo\source\repos\ScreenSoud-04\ScreenSoud-04\bin\Debug\net8.0\ScreenSoud-04.pdb
+C:\Users\paulo\source\repos\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\ScreenSoud-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\source\repos\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\ScreenSoud-04.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\ScreenSoud-04.AssemblyInfo.cs
+C:\Users\paulo\source\repos\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\ScreenSoud-04.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\ScreenSoud-04.dll
+C:\Users\paulo\source\repos\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\refint\ScreenSoud-04.dll
+C:\Users\paulo\source\repos\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\ScreenSoud-04.pdb
+C:\Users\paulo\source\repos\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\ScreenSoud-04.genruntimeconfig.cache
+C:\Users\paulo\source\repos\ScreenSoud-04\ScreenSoud-04\obj\Debug\net8.0\ref\ScreenSoud-04.dll
